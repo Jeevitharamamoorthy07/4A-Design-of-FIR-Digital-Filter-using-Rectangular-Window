@@ -1,9 +1,7 @@
 # FIR-FILTER-DESIGN
-# EXP 4 A: Design-of-FIR-Digital-Filter-using-Rectangular-Window DESIGN OF LOW PASS FIR DIGITAL FILTER
+# EXP 4 A: Design-of-FIR-Digital-Filter-using-Rectangular-Window
 
-# AIM: 
-
-# To perform Design-of-FIR-Digital-Filter-using-Rectangular-Window using SCILAB.
+# AIM 1:  To perform Design-of-LOWPASS FIR-Digital-Filter-using-Rectangular-Window using SCILAB.
 
 # APPARATUS REQUIRED: 
 PC installed with SCILAB. 
@@ -14,5 +12,48 @@ PC installed with SCILAB.
 # OUTPUT: 
 
 
-# RESULT:
-Thus design of  Design-of-FIR-Digital-Filter-using-Rectangular-Window waveforms were plotted and output was verified.
+# RESULT: 
+
+Thus design of low pass FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
+
+# AIM 2: To perform DESIGN OF HIGH PASS FIR DIGITAL FILTERS using SCILAB.
+
+# APPARATUS REQUIRED: 
+PC installed with SCILAB. 
+
+# PROGRAM: 
+
+
+# OUTPUT: 
+
+
+# RESULT: 
+Thus design of HIGH pass FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
+
+# AIM 3: To perform DESIGN OF BAND PASS FIR DIGITAL FILTERS using SCILAB.
+
+# APPARATUS REQUIRED: 
+PC installed with SCILAB. 
+
+# PROGRAM: 
+
+
+# OUTPUT: 
+
+
+# RESULT: 
+Thus design of BAND pass FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
+
+# AIM 4: To perform DESIGN OF BAND STOP FIR DIGITAL FILTER using SCILAB.
+
+# APPARATUS REQUIRED: 
+PC installed with SCILAB. 
+
+# PROGRAM: 
+
+
+# OUTPUT: 
+
+
+# RESULT: 
+Thus design of BAND STOP FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
